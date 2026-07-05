@@ -14,11 +14,12 @@ nav h2{
 }
 nav .links a{
     text-decoration: none;
-    gap: 12px;
     color: #111;
+    cursor: pointer;
 }
 .links a:hover{
     color: #111;
     background-color:deepskyblue;
     border-radius:12px ;
 }
+
