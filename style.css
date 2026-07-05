@@ -7,13 +7,15 @@ nav {
     display: flex;
     justify-content: space-between;
     font-weight: 900;
+    align-items: center;
 }
 nav h2{
     color: #000080;
 }
-nav .links {
+nav .links a{
     text-decoration: none;
     gap: 12px;
+    color: #111;
 }
 .links a:hover{
     color: #111;
