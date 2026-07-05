@@ -19,6 +19,7 @@ nav .links a{
     cursor: pointer;
     gap: 16px;
     background-color: skyblue;
+    border-radius: 12px;
 
 }
 .links a:hover{
