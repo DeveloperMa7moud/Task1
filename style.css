@@ -8,7 +8,7 @@ nav {
     justify-content: space-between;
     font-weight: 900;
     align-items: center;
-    position: relative;
+
 }
 nav h2{
     color: #000080;
@@ -17,9 +17,9 @@ nav .links a{
     text-decoration: none;
     color: #111;
     cursor: pointer;
-    position:absolute;
-    top: 16px;
-    right: 16px;
+    gap: 16px;
+    background-color: skyblue;
+
 }
 .links a:hover{
     color: #111;
