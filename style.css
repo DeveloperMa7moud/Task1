@@ -27,4 +27,13 @@ nav .links a{
     background-color:deepskyblue;
     border-radius:12px ;
 }
+h1 {
+    color: #000080;
+    align-items: center;
+}
+.hero-text{
+    color: #111;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
 
