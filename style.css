@@ -1,3 +1,22 @@
 * {
     font-family: Arial, sans-serif;
+    max-width: fit-content;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 900;
+}
+nav h2{
+    color: #000080;
+}
+nav .links {
+    text-decoration: none;
+    gap: 12px;
+}
+.links a:hover{
+    color: #111;
+    background-color:deepskyblue;
+    border-radius:12px ;
 }
