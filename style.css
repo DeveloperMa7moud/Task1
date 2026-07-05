@@ -24,7 +24,7 @@ nav .links a{
 
 }
 .links a:hover{
-    color: #111;
+    color: #eee;
     background-color:#000080;
     border-radius:12px ;
 }
