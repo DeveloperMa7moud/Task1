@@ -54,3 +54,12 @@ h1 {
     background-color: #000080;
     border-radius: 12px;
 }
+input{
+    display: block;
+    align-items: center;
+    margin: 12px 70px;
+}
+input:focus{
+    border: 2px solid darkblue;
+    
+}
