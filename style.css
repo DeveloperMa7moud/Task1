@@ -19,7 +19,7 @@ nav .links a{
     cursor: pointer;
     background-color: skyblue;
     border-radius: 12px;
-    justify-content:end;
+    justify-content:space-between
 
 }
 .links a:hover{
@@ -30,6 +30,7 @@ nav .links a{
 h1 {
     color: #000080;
     align-items: center;
+    margin-bottom: 20px;
 }
 .hero-text{
     color: #111;
