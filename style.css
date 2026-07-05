@@ -38,3 +38,15 @@ h1 {
     margin-bottom: 16px;
 }
 
+.btn {
+    color: #eee;
+    background-color: #14de;
+    border-radius: 12px;
+    border: none;
+
+}
+.btn:hover{
+    color: #eee;
+    background-color: #000080;
+    border-radius: 12px;
+}
