@@ -64,3 +64,13 @@ input:focus{
     border: 2px solid darkblue;
     
 }
+.cards{
+    display: flex;
+    gap: 16px;
+}
+.card{
+    width: 32%;
+}
+.card img{
+    width: 100%;
+}
